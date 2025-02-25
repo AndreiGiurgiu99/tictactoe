@@ -34,4 +34,14 @@
 
 .tile {
     background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+#resetBtn {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+    text-align: center;
 }
